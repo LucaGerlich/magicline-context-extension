@@ -1,0 +1,26 @@
+{
+  "name": "magicline-context-extention",
+  "version": "1.0.0",
+  "description": "This gemini-cli extention will provide information about the magicline developer tools to your coding assistant",
+  "keywords": [
+    "Magicline",
+    "context-extention",
+    "gemini-cli",
+    "gemini"
+  ],
+  "homepage": "https://github.com/LucaGerlich/magicline-context-extension#readme",
+  "bugs": {
+    "url": "https://github.com/LucaGerlich/magicline-context-extension/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaGerlich/magicline-context-extension.git"
+  },
+  "license": "MIT",
+  "author": "Luca Gerlich",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
