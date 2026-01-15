@@ -8,6 +8,13 @@ Magicline exposes two independent API surfaces:
 They differ in authentication, data sensitivity, and intended usage.  
 Never assume that conventions from one automatically apply to the other.
 
+## Base URLs
+
+| API         | Base URL |
+| ----------- | -------- |
+| Open-API    | https://{tenantname}.open-api.{environment}.magicline.com |
+| Connect API | https://{tenantname}.api.{environment}.magicline.com |
+
 ---
 
 ## Environments
