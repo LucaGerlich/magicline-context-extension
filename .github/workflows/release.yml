@@ -32,6 +32,6 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            release/darwin.arm64.my-tool.tar.gz
-            release/linux.arm64.my-tool.tar.gz
-            release/win32.arm64.my-tool.zip
+            release/darwin.arm64.GEMINI.tar.gz
+            release/linux.arm64.GEMINI.tar.gz
+            release/win32.arm64.GEMINI.zip
