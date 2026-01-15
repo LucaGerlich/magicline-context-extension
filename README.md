@@ -1,6 +1,6 @@
 # Magicline API Context Extension
 
-A context extension for [gemini-cli](https://github.com/google/gemini-cli) (or similar AI tools) designed to assist developers when working with the Magicline API.
+A context extension for [gemini-cli](https://github.com/google-gemini/gemini-cli) designed to assist developers when working with the Magicline API.
 
 ## Project Description
 
